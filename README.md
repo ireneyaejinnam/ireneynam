@@ -1,2 +1,2 @@
 # ireneynam
-This is my website from scratch. Please don't take it seriously.
+This is my practice website from scratch. Please don't take it seriously; I made it for fun!
